@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+p {
+    box-shadow: 2px, black;
+    margin: 20px;
+}
+h1 {
+    font: bolder;
+    margin:100px;
+}
